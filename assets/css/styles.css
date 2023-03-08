@@ -528,5 +528,8 @@ input {
   text-transform: uppercase;
   font-weight: var(--fw-bold);
   display: block;
+  padding: 2em 2em;
+  margin: 1em 0em;
+  border-radius: 50px;
 }
 
